@@ -1,0 +1,40 @@
+[
+  {
+    "id": 123456789876,
+    "startDate": "2022-01-14",
+    "endDate": "2022-02-14",
+    "expenses": [
+      {
+        "id": 123459348876,
+        "label": "Imposto de renda",
+        "paid": false,
+        "value": 12
+      },
+      {
+        "id": 983656789876,
+        "label": "Pagar conta de luz",
+        "paid": false,
+        "value": 12
+      },
+      {
+        "id": 573824123011,
+        "label": "Pagar conta de internet",
+        "paid": false,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "id": 1661908977916,
+    "startDate": "2022-02-14",
+    "endDate": "2022-03-14",
+    "expenses": [
+      {
+        "id": 1661911533313,
+        "label": "Aaaaaaaaaaaaaaaa",
+        "paid": false,
+        "value": 18.99
+      }
+    ]
+  }
+]
