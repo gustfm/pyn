@@ -1,7 +1,7 @@
 .DS_Store
 /dist
-/back-end/dist
-/front-end/dist
+/bpyn/dist
+/fpyn/dist
 
 # local env files
 .env.local
@@ -24,8 +24,8 @@ pnpm-debug.log*
 
 # compiled output
 /node_modules
-/back-end/node_modules
-/front-end/node_modules
+/bpyn/node_modules
+/fpyn/node_modules
 
 # Logs
 logs
